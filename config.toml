@@ -1,0 +1,43 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Baretto"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+[[menu.main]]
+name    = "Home"
+url     = "/"
+weight  = 1
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+[[menu.main]]
+name    = "Blog"
+url     = "blog"
+weight  = 3
+
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "17 January 2017"
+# Meta data
+description = "Baretto website"
+author = "baretto"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/logo.png"
+heading = "HI, WE ARE Baretto"
+description = "artisan du changement"
+# button
+btn     = true
+btnText = "Download More"
+btnURL  = ""
