@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://baretto-labs.github.io/"
 languageCode = "en-us"
 title = "Baretto"
-theme = "timer-hugo"
+theme = "timer"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 [[menu.main]]
