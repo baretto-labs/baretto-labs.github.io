@@ -10,3 +10,4 @@ git submodule add git@github.com:themefisher/timer-hugo.git themes/timer
 ```bash
 hugo serve
 ```
+4) You can access to the site on http://localhost:1313
