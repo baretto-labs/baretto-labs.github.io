@@ -1,0 +1,30 @@
+enable  : true
+title   : Nos services
+subtitle: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+item    :
+  - icon  : ion-ios-flask-outline
+    title : Software engering
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  - icon  : ion-ios-lightbulb-outline
+    title : Agile Team
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  - icon  : ion-ios-americanfootball-outline
+    title : Coaching
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  - icon  : ion-ios-keypad-outline
+    title : Formation
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+  - icon  : ion-ios-barcode-outline
+    title : Développement
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+
+  - icon  : ion-ios-lightbulb-outline
+    title : Tests
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
