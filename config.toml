@@ -43,7 +43,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable  = true
 bgImage = "images/logo.png"
-heading = "Chez Baretto, nous sommes"
+heading = "Chez Baretto, nous sommes ..."
 description = "Inspirés par la philosophie du Kaizen, passionnés par le lean et l’Agilité notre mission est de devenir par l’apport de valeur les artisans de votre changement."
 # button
 btn     = true
