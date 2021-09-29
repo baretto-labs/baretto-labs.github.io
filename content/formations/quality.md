@@ -1,6 +1,6 @@
 ---
 title: "Quality"
-type: formation
+type: portfolio
 date: 2018-07-12T16:54:54+06:00
 description : "This is meta description"
 caption: Product Mockup
